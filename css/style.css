@@ -4092,7 +4092,7 @@ a.theme-footer-logo img {
 
 .footer-top-area {
     position: relative;
-    background-color: #f3f2ee;
+    background-color: #ffffff;
 }
 .footer-top-area::after {
     content: "";
@@ -4355,19 +4355,19 @@ a.theme-footer-logo img {
     footer-bottom css
 ====================================*/
 .footer-bottom-area {
-    padding-top: 0px;
+    padding-top: 30px;
     padding-bottom: 30px;
     background-color: #f3f2ee;
 }
 @media (max-width: 1199px) {
     .footer-bottom-area {
-        padding-top: 0px;
+        padding-top: 300px;
         padding-bottom: 30px;
     }
 }
 @media (max-width: 767px) {
     .footer-bottom-area {
-        padding-top: 0px;
+        padding-top: 15px;
         padding-bottom: 15px;
     }
 }
